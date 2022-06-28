@@ -25,3 +25,4 @@ function BlogPage() {
     </Layout>
   );
 }
+export default BlogPage;
